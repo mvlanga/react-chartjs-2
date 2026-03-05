@@ -23,7 +23,7 @@ export const options = {
   plugins: {
     title: {
       display: true,
-      text: 'Chart.js Bar Chart - Stacked',
+      text: 'Chart.js Bar Chart - Grouped',
     },
   },
   responsive: true,
